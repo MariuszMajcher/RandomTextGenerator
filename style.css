@@ -25,6 +25,10 @@ h2 {
     border-bottom: #cf9800 solid 2px;
 }
 
+#text_area {
+    font-size: 3rem;
+}
+
 main {
     position: relative;
     display: grid;
@@ -35,8 +39,13 @@ main {
 }
 
 button {
+    position: relative;
+    width: 8rem;
+    padding-inline: auto;
+    margin: auto;
     background-image: linear-gradient(20deg, #cf00be, #cfab00);
     padding-inline: 2rem;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
