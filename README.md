@@ -1,7 +1,7 @@
-#RANDOM TEXT GENERATOR
+# RANDOM TEXT GENERATOR
 >
 >
-##Course from Codecademy called "Mixed messages"
+## Course from Codecademy called "Mixed messages"
 
 This little program will be generating random text using 3 arrays with specific purpose.
 1. A line of text with 2 places for words to be replaced randomly
